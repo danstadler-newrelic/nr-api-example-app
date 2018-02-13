@@ -10,7 +10,7 @@ All config files use ## to indicate comment lines.
 App probably doesn't handle blank lines so well so don't leave any in there.
 <br>
 
-<b>.starter-accounts</b>
+<br><b>.starter-accounts</b>
 
 format:<br>
 name:accountID:[valid insights API query key]
@@ -37,6 +37,3 @@ This will be used in the UI to compute a grand total price based on the grand to
 <br>PRICING:PROD:.50
 <br>PRICING:DEV:.30
 
-<br>
-All config files use ## to indicate comment lines.
-App probably doesn't handle blank lines so well so don't leave any in there.
